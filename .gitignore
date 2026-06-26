@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Trained models can be large; keep one checkpoint if you want a demo,
+# otherwise regenerate with train.py.
+models/*.zip
+
+# Panda3D / OS noise
+*.log
+.DS_Store

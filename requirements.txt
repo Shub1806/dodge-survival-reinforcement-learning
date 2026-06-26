@@ -1,0 +1,4 @@
+panda3d>=1.10
+gymnasium>=0.29
+stable-baselines3>=2.0
+numpy>=1.24
